@@ -1,0 +1,20 @@
+{
+  "name": "crazyflie-drone",
+  "version": "1.0.0",
+  "description": "Repo for the CrazyFlie 2.0 Drone. Fly using JavaScript, as well as incorporating control through the Leap Motion via the JavaScript robotics framework, Cylonjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwalk/CrazyFlie-Drone"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-crazyflie": "^0.17.0",
+    "cylon-leapmotion": "^0.20.0"
+  }
+}
