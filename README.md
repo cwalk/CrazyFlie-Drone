@@ -3,3 +3,7 @@ Repo for the CrazyFlie 2.0 Drone. Fly using JavaScript, as well as incorporating
 
 
 https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/
+
+## YouTube
+
+YouTube: https://www.youtube.com/watch?v=kBgh4o4CLVs&feature=youtu.be
